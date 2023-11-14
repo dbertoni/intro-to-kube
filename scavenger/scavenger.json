@@ -1,12 +1,12 @@
 {
   "mark-i": {
-    "0": "Put answer here",
-    "1": "Put answer here",
-    "2": "Put answer here",
-    "3": "Put answer here",
-    "4": "Put answer here",
-    "5": "Put answer here"
+    "0": "There are 5 pods",
+    "1": "There are 6 namespaces",
+    "2": "There is 1 node",
+    "3": "There are 2 pods failing",
+    "4": "There is 1 deployment",
+    "5": "There are 3 replicas"
   },
-  "mark-ii": { "6": "Put answer here", "7": "Put answer here" },
-  "mark-iii": { "8": "Put answer here", "9": "Put answer here" }
+  "mark-ii": { "6": "Thre is a CrashLoopBackOff error", "7": "The POSTGRES_PASSWORD is missing" },
+  "mark-iii": { "8": "Error: ErrImagePull", "9": "Error from server (BadRequest): container \"nginx\" in pod \"nginx\" is waiting to start: trying and failing to pull image" }
 }
